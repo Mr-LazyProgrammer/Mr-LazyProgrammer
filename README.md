@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **smrutiranjanbadatya2@gmail.com**
 
-- ⚡ Fun fact **I am Lazy.**
+- ⚡ Fun fact **I am Lazy, yet Passionate .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
