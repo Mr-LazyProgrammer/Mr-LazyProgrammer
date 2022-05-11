@@ -31,7 +31,7 @@
 
 <p></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
   <h3 align="left">Support:</h3>
   <p>
     <a href="https://www.buymeacoffee.com/iamsmrutii "> 
@@ -40,15 +40,15 @@
   </p>
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a align="right" href="https://github.com/iamsmruti">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/iamsmruti">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsmruti&" alt="iamsmruti" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/iamsmruti">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" />
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamsmruti&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamsmruti&theme=gotham)](https://github.com/iamsmruti)
