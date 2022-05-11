@@ -1,4 +1,4 @@
-<p align="center"> <img src="./namaste.gif" alt="iamsmruti" /> </p>
+<p align="center"> <img src="./namaste1.gif" alt="iamsmruti" /> </p>
 
 <h1 align="center">I'm Smruti</h1>
 <h3 align="center">A Computer Science Enthusiast</h3>
