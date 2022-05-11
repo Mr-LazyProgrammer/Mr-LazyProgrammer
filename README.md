@@ -41,7 +41,7 @@
 </a>
 <br><br><br><br>
 
-<a href="https://github.com/iamsmruti">
+<a width="50%" href="https://github.com/iamsmruti">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsmruti&theme=gotham" alt="iamsmruti" />
 
   <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsmruti&show_icons=true&locale=en&theme=gotham" alt="iamsmruti" />
