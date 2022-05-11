@@ -1,3 +1,5 @@
+<p align="center"> <img src="./namaste.gif" alt="iamsmruti" /> </p>
+
 <h1 align="center">Hi 👋, I'm Smruti</h1>
 <h3 align="center">A Computer Science Enthusiast</h3>
 
