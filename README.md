@@ -33,17 +33,13 @@
 <p><a href="https://www.buymeacoffee.com/iamsmrutii "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamsmrutii " /></a></p><br><br>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsmruti&show_icons=true&locale=en&layout=compact" alt="iamsmruti" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsmruti&" alt="iamsmruti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamsmruti&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsmruti&" alt="iamsmruti" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" />
 </a>
