@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsmruti&" alt="iamsmruti" /></p>
 
-[![Smruti's github activity](https://activity-graph.herokuapp.com/graph?username=iamsmruit)](https://github.com/iamsmruti)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
