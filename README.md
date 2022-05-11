@@ -42,13 +42,13 @@
 <br><br><br><br>
 
 <a href="https://github.com/iamsmruti">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsmruti&" alt="iamsmruti" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsmruti&theme=gotham" alt="iamsmruti" />
 
-  <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" />
+  <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsmruti&show_icons=true&locale=en&theme=gotham" alt="iamsmruti" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamsmruti&show_icons=true&locale=en&theme=gotham" alt="iamsmruti" />
 </a>
 
-<br><br>
+<br><br><br><br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamsmruti&theme=gotham)](https://github.com/iamsmruti)
