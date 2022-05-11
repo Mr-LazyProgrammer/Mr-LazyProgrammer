@@ -40,15 +40,13 @@
   </p>
 </a>
 
-<a align="right" href="https://github.com/iamsmruti">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" />
-</a>
-
 <a href="https://github.com/iamsmruti">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsmruti&" alt="iamsmruti" />
-</a>
-<a width="50%" href="https://github.com/iamsmruti">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" />
+</a>
+
+<a align="right" href="https://github.com/iamsmruti">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsmruti&show_icons=true&locale=en" alt="iamsmruti" />
 </a>
 
 <br><br>
