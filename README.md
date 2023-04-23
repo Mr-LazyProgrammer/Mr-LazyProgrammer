@@ -49,10 +49,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=iamsmruti&show_icons=true&locale=en&theme=gotham" alt="iamsmruti" />
 </a>
 
-<br><br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamsmruti&theme=gotham)](https://github.com/iamsmruti)
-
 <br>
 
 <p align="center">See Ya !! Bye 🙂</p>
