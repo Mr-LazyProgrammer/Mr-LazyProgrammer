@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsmruti&label=Profile%20views&color=0e75b6&style=flat" alt="iamsmruti" /> </p>
 
 
-- 🔭 I’m currently working on **A Blog Website**
+- 🔭 I’m currently working on **A Treasure Hunt Website**
 
-- 🌱 I’m currently learning **Building REST APIs**
+- 🌱 I’m currently learning **Building GraphQl-Express APIs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
